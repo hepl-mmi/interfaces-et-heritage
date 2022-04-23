@@ -10,5 +10,4 @@
 
 * * *
 
-
-
+Ce projet a fait l'objet d'une vidéo explicative [ici](https://youtu.be/rxAoBx0Y0q0).
