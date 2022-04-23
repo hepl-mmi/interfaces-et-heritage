@@ -1,4 +1,4 @@
-# interfaces-et-heritage
+# Interfaces et héritage
 
 > A JS exercise use at HEPL for MMI.
 
